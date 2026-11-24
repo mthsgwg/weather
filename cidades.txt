@@ -1,0 +1,8 @@
+# Uma cidade por linha, no formato "Cidade / UF".
+# A UF é opcional, mas evita confusão entre cidades de mesmo nome.
+# Linhas começando com # são ignoradas.
+
+Patos / PB
+João Pessoa / PB
+Campina Grande / PB
+Recife / PE
