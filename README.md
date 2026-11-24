@@ -36,3 +36,6 @@ Para atualizar automaticamente, agende no cron (ex.: de hora em hora):
 ```
 0 * * * * cd /caminho/para/weather && python3 atualizar_previsao.py
 ```
+
+No Windows, use o `atualizar_previsao.bat` no Agendador de Tarefas (em "Programa/script", aponte para o .bat).
+Ele roda o script na própria pasta e grava a saída em `atualizar_previsao.log`.
